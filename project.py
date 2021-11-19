@@ -38,7 +38,7 @@ button =PushButton(app, choose_name, text="Tell me!")
 name =Text(app, text="")
 #*****Button End*************#
 #*****Picture Area***********#
-pic = Picture(app, image='assets/hacker.png')
+pic = Picture(app, image='hacker.png')
 #*****Picture End************#
 
 app.display()               #This starts the display with the above code in it.
